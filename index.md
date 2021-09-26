@@ -1,6 +1,7 @@
 # Jim's User Page
 
-## Who I am as a programmer 
+
+## Who I Am As A Programmer (who-i-am-as-a-programmer)
 My favorite programming language is **Java**. 
 I have taken several CSE courses in my undergrad at UC San Diego:
 1. CSE8A
@@ -31,12 +32,13 @@ My hobbies include:
 - Basketball 
 - Valorant
 
-Here is a list of what my morning routine looks like: 
-- []  Wake up around 9am. 
-- []  Drink a cup of water.
-- []  Make breakfast.
-- []  Get ready for the day.
-- []  Morning stretch routine. 
+Here is a task list of what my morning routine looks like: 
+- [] Wake up around 9am. 
+- [] Drink a cup of water.
+- [] Make breakfast.
+- [] Get ready for the day.
+- [] Morning stretch routine. 
+
 
 ## Final Remarks
 This user page was made with help from [Github Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code).
