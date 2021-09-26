@@ -39,6 +39,7 @@ Here is a task list of what my morning routine looks like:
 - [] Get ready for the day.
 - [] Morning stretch routine. 
 
+![This is my favorite software developer meme.](https://me.me/i/programmer-user-software-every-single-time-b82f16a1133241638023e9de55dc715c)
 
 ## Final Remarks
 This user page was made with help from [Github Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code).
