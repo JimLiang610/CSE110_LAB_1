@@ -3,7 +3,7 @@
 
 ## Who I Am As A Programmer (who-i-am-as-a-programmer)
 My favorite programming language is **Java**. 
-I have taken several CSE courses in my undergrad at UC San Diego:
+I have taken several CSE courses in my undergrad at *UC San Diego*:
 1. CSE8A
 2. CSE8B
 3. CSE12
