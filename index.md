@@ -26,19 +26,19 @@ My favorite mantra is:
 >"Do Better"
 
 My hobbies include:
--Poker 
--Youtube/Netflix/Anime 
--Basketball 
--Valorant
+- Poker
+- Youtube/Netflix/Anime 
+- Basketball 
+- Valorant
 
 Here is a list of what my morning routine looks like: 
--[]  Wake up around 9am. 
--[]  Drink a cup of water.
--[]  Make breakfast.
--[]  Get ready for the day.
--[]  Morning stretch routine. 
+- []  Wake up around 9am. 
+- []  Drink a cup of water.
+- []  Make breakfast.
+- []  Get ready for the day.
+- []  Morning stretch routine. 
 
-##Final Remarks
+## Final Remarks
 This user page was made with help from [Github Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code).
 
 The README.md for this user page is [here](README.md).
