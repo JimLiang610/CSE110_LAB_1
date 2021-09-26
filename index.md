@@ -1,7 +1,8 @@
 # Jim's User Page
 
 
-## Who I Am As A Programmer (who-i-am-as-a-programmer)
+## Who I Am As A Programmer 
+(interesting-facts-about-myself)
 My favorite programming language is **Java**. 
 I have taken several CSE courses in my undergrad at *UC San Diego*:
 1. CSE8A
