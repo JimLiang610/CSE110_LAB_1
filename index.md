@@ -34,11 +34,11 @@ My hobbies include:
 - Valorant
 
 Here is a task list of what my morning routine looks like: 
-- [] Wake up around 9am. 
-- [] Drink a cup of water.
-- [] Make breakfast.
-- [] Get ready for the day.
-- [] Morning stretch routine. 
+- [X] Wake up around 9am. 
+- [X] Drink a cup of water.
+- [X] Make breakfast.
+- [X] Get ready for the day.
+- [X] Morning stretch routine. 
 
 ![This is my favorite software developer meme.](https://me.me/i/programmer-user-software-every-single-time-b82f16a1133241638023e9de55dc715c)
 
