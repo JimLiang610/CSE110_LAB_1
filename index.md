@@ -40,7 +40,7 @@ Here is a task list of what my morning routine looks like:
 - [X] Get ready for the day.
 - [X] Morning stretch routine. 
 
-![This is my favorite software developer meme.](/assets/images/meme.png)
+![This is my favorite software developer meme.](meme.png)
 
 ## Final Remarks
 This user page was made with help from [Github Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code).
