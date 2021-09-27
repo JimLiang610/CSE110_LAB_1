@@ -40,6 +40,7 @@ Here is a task list of what my morning routine looks like:
 - [X] Get ready for the day.
 - [X] Morning stretch routine. 
 
+This is my favorite software developer meme:
 ![This is my favorite software developer meme.](meme.png)
 
 ## Final Remarks
